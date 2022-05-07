@@ -1,0 +1,8 @@
+//
+// Created by Dipir on 06/05/2022.
+//
+
+#ifndef DIVISAO_POLINOMIOS_SUB_X_H
+#define DIVISAO_POLINOMIOS_SUB_X_H
+
+#endif //DIVISAO_POLINOMIOS_SUB_X_H
