@@ -1,5 +1,5 @@
 #include <iostream>
-#include "divisor.h"
+#include "logica.h"
 using namespace std;
 
 int main() {
