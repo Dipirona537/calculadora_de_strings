@@ -2,8 +2,8 @@
 // Created by Dipir on 06/05/2022.
 //
 
-#ifndef DIVISAO_POLINOMIOS_DIVISOR_H
-#define DIVISAO_POLINOMIOS_DIVISOR_H
+#ifndef LOGICA_H
+#define LOGICA_H
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -93,4 +93,4 @@ void divisor(const string& equacao) {
         }
     }
 }
-#endif //DIVISAO_POLINOMIOS_DIVISOR_H
+#endif //LOGICA_H
